@@ -1,6 +1,6 @@
 <div>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFhMnNrd212eG50OHhhMGVobGNmMWlsa25qb2l5YzFvd3ZxcTdncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
-            title="" alt="CodingGIF" style="height: 500px; width: 100%; object-fit: cover">
+            title="" width="100%" alt="CodingGIF" style="height: 500px; width: 100%; object-fit: cover">
 
 </div>
 
