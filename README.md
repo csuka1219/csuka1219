@@ -1,12 +1,8 @@
-<p align="center">
- 
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFhMnNrd212eG50OHhhMGVobGNmMWlsa25qb2l5YzFvd3ZxcTdncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
             title="" alt="CodingGIF" style="height: 500px; width: 100%; object-fit: cover">
 
 
-
-</p>
 
 <p align="center">
  <a href="https://profile.codersrank.io/user/csuka1219"><img  width="1000"
