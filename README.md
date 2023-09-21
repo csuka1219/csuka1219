@@ -10,9 +10,9 @@
 </p>
 <div class="row" style="display: table;">
    <div class="column" style="float: left; width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=csuka1219&show_icons=true&theme=dark" alt="reapism" />
+    <img src="https://github-readme-stats.vercel.app/api?username=csuka1219&show_icons=true&theme=dark"/>
   </div>
-   <div class="column" style="float: left; width: 50%;>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csuka1219&layout=compact&hide=html&theme=dark" alt="reapism" />
+   <div class="column" style="float: left; width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csuka1219&layout=compact&hide=html&theme=dark" />
   </div>
 <div/>
