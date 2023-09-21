@@ -9,8 +9,8 @@
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=csuka1219&badges=3&width=1000&show-avatar=false&style=--header-bg-color:%23000;--border-radius:0px;"/></a>
 </p>
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=csuka1219&show_icons=true&theme=dark" alt="reapism" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=csuka1219&show_icons=true&theme=dark" style="float:left" alt="reapism" />
 <div/>
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobbs1210&layout=compact&hide=html&theme=dark" alt="reapism" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobbs1210&layout=compact&hide=html&theme=dark" style="float:left" alt="reapism" />
 <div/>
