@@ -9,6 +9,6 @@
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=csuka1219&badges=3&width=1000&show-avatar=false&style=--header-bg-color:%23000;--border-radius:0px;"/></a>
 </p>
 <div align="center" style="text-align: center; margin: 0 auto; display: block; justify-content-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=csuka1219&show_icons=true&theme=dark" style="width:500px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csuka1219&layout=compact&hide=html&theme=dark" style="width:380px">
+    <img src="https://github-readme-stats.vercel.app/api?username=csuka1219&show_icons=true&theme=dark" style="width:396px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csuka1219&layout=compact&hide=html&theme=dark" style="width:300px">
 <div/>
